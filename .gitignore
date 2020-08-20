@@ -1,0 +1,6 @@
+#ignore the virtual enviorment and cache
+env/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+

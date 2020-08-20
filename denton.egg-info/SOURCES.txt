@@ -1,0 +1,7 @@
+README.md
+setup.py
+denton/__init__.py
+denton.egg-info/PKG-INFO
+denton.egg-info/SOURCES.txt
+denton.egg-info/dependency_links.txt
+denton.egg-info/top_level.txt

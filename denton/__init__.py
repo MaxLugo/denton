@@ -24,7 +24,7 @@ def proportional_method(I, A):
          107.5,107.2,107.5])
     A = np.array([1000, 1040, 1060.8, 1064.9])
     
-    #the average of every 4 in the data annual data
+    #the average of every 4 in the quarterly data = annual data
     B = denton.proportional_method(I, A)    
 
     #to replicate the table then divide by 4

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="denton",
-    version="0.0.1",
+    version="0.0.2",
     author="Max Lugo D",
     author_email="maxlugo20@gmail.com",
     description="function to interpolate data using the denton procedure.",

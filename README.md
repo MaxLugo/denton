@@ -6,7 +6,7 @@ An example is included in the repository
 
 The methodology was taken from: https://www.imf.org/external/pubs/ft/qna/pdf/2017/chapter6.pdf
 
-The package use the FCO of the minimization problem to get the optimal solution.
+The package use the FOC of the minimization problem to get the optimal solution.
 
 Requirements:
 python 3+
